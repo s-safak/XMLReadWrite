@@ -1,0 +1,8 @@
+H:\_Source\_c#\XMLReadWrite\bin\Debug\XMLReadWrite.exe
+H:\_Source\_c#\XMLReadWrite\bin\Debug\XMLReadWrite.pdb
+H:\_Source\_c#\XMLReadWrite\obj\Debug\XMLReadWrite.Form1.resources
+H:\_Source\_c#\XMLReadWrite\obj\Debug\XMLReadWrite.csproj.GenerateResource.Cache
+H:\_Source\_c#\XMLReadWrite\obj\Debug\XMLReadWrite.exe
+H:\_Source\_c#\XMLReadWrite\obj\Debug\XMLReadWrite.pdb
+F:\_Source\_c#\XMLReadWrite\obj\Debug\XMLReadWrite.exe
+F:\_Source\_c#\XMLReadWrite\obj\Debug\XMLReadWrite.pdb
